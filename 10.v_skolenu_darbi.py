@@ -27,3 +27,4 @@
 #13 Strazdiņa Paula Marta
 
 #14 Vanags Renārs
+print(cos(radians(60)+fmod(15,2)))
